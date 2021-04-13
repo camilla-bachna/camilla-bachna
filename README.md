@@ -44,4 +44,4 @@ son claves.
 Do not hesitate to **contact me**. Click on the following links to access:
 
 - [my LinkedIn account](https://www.linkedin.com/in/camilla-bachna)
-- [![GMail]](mailto:camilla.bachna@gmail.com)
+- [Email](mailto:camilla.bachna@gmail.com?subject=[GitHub])
