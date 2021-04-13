@@ -1,5 +1,3 @@
-# Portfolio
-
 Hi everyone :open_hands:
 
 I am
@@ -35,11 +33,11 @@ son claves.
 ## Technologies, frameworks and tools
 
 <h2 align="center">
-  <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="600px"/>
+  <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="500px"/>
   <br>
 </h2>
 
-> **NOTE:** Gif of website made with HTML5 and CSS3
+> **NOTE:** Picture of website made with HTML5 and CSS3
 
 ## Contacto 🖋
 
