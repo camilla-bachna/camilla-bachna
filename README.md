@@ -30,18 +30,26 @@ Tras llegar a España descubrí mi **nueva pasión**: el desarrollo **front-end*
 **aprendiendo constantemente** y donde misfortalezas como la **atención al detalle, creatividad** y **organización**
 son claves.
 
-## Technologies, frameworks and tools
+## Technologies, frameworks & tools
 
 <h2 align="center">
-  <img src="images/technologies_frameworks_and_tools.png" alt="Camilla name" width="600px"/>
+  <img src="images/technologies_frameworks_and_tools.png" alt="Camilla name" width="800px"/>
   <br>
 </h2>
 
 > **NOTE:** Picture of website made with HTML5 and CSS3
 
+## Projects
+
+[![Rick & Morty Browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty)](https://github.com/camilla-bachna/rick-and-morty)
+
 ## Contact info 🖋
 
-Do not hesitate to **contact me**. Click on the following links to access:
+Please don't hesitate to **contact me**. Click on the following links:
 
-- [my LinkedIn account](https://www.linkedin.com/in/camilla-bachna)
+- [LinkedIn](https://www.linkedin.com/in/camilla-bachna)
 - [Email](mailto:camilla.bachna@gmail.com?subject=[GitHub])
+
+## Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
