@@ -34,4 +34,11 @@ son claves.
 
 ## Technologies, frameworks and tools
 
-![Technologies, frameworks and tools](/src/images/technologies_frameworks_tools.png)
+ <img src="images/camilla.gif" alt="Camilla name" width="600px" align="center"/>
+
+## Contacto 🖋
+
+No dudes en **ponerte en contacto con migo**. Pincha en los enlaches para acceder a:
+
+- [mi cuenta de LinkedIn](https://www.linkedin.com/in/camilla-bachna)
+- [mi perfil de GitHub](https://github.com/camilla-bachna)
