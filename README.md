@@ -39,9 +39,9 @@ son claves.
 
 > **NOTE:** Picture of website made with HTML5 and CSS3
 
-## Contacto 🖋
+## Contact info 🖋
 
-No dudes en **ponerte en contacto con migo**. Pincha en los enlaches para acceder a:
+Do not hesitate to **contact me**. Click on the following links to access:
 
-- [mi cuenta de LinkedIn](https://www.linkedin.com/in/camilla-bachna)
-- [mi perfil de GitHub](https://github.com/camilla-bachna)
+- [my LinkedIn account](https://www.linkedin.com/in/camilla-bachna)
+- [![GMail]](mailto:camilla.bachna@gmail.com)
