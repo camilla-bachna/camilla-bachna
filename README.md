@@ -33,3 +33,5 @@ Tras llegar a España descubrí mi **nueva pasión**: el desarrollo **front-end*
 son claves.
 
 ## Technologies, frameworks and tools
+
+![Technologies, frameworks and tools](/src/images/technologies_frameworks_tools.png)
