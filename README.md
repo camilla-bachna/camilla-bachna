@@ -34,7 +34,7 @@ son claves.
 
 ## Technologies, frameworks and tools
 
- <img src="images/camilla.gif" alt="Camilla name" width="600px" align="center"/>
+ <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="600px" align="center"/>
 
 ## Contacto 🖋
 
