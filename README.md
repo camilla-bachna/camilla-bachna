@@ -33,7 +33,7 @@ son claves.
 ## Technologies, frameworks and tools
 
 <h2 align="center">
-  <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="500px"/>
+  <img src="images/technologies_frameworks_and_tools.png" alt="Camilla name" width="600px"/>
   <br>
 </h2>
 
