@@ -9,7 +9,7 @@ I am
   <br>
 </h2>
 
-> **NOTE:** Gif of a website made with HTML5 and CSS3
+> **NOTE:** Gif of website made with HTML5 and CSS3
 
 ## About me :speech_balloon:
 
@@ -34,7 +34,12 @@ son claves.
 
 ## Technologies, frameworks and tools
 
- <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="600px" align="center"/>
+<h2 align="center">
+  <img src="images/technologies_frameworks_tools.png" alt="Camilla name" width="600px"/>
+  <br>
+</h2>
+
+> **NOTE:** Gif of website made with HTML5 and CSS3
 
 ## Contacto 🖋
 
