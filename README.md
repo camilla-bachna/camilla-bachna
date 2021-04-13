@@ -41,7 +41,9 @@ son claves.
 
 ## Projects
 
-[![Rick & Morty Browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty)](https://github.com/camilla-bachna/rick-and-morty)
+[![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=cobalt)](https://github.com/camilla-bachna/rick-and-morty)
+
+[![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=cobalt)](https://github.com/camilla-bachna/tv-series-browser)
 
 ## Contact info 🖋
 
@@ -52,4 +54,4 @@ Please don't hesitate to **contact me**. Click on the following links:
 
 ## Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-bachna&theme=cobalt" />
