@@ -45,6 +45,12 @@ son claves.
 
 [![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=cobalt)](https://github.com/camilla-bachna/tv-series-browser)
 
+[![Team project - React profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-react-profile-cards&theme=cobalt)](https://github.com/camilla-bachna/team-project-react-profile-cards)
+
+[![Team project - The Fearle.scss](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-the-fearle.scss&theme=cobalt)](https://github.com/camilla-bachna/team-project-the-fearle.scss)
+
+[![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=cobalt)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)
+
 ## Contact info 🖋
 
 Please don't hesitate to **contact me**. Click on the following links:
@@ -55,3 +61,5 @@ Please don't hesitate to **contact me**. Click on the following links:
 ## Statistics
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-bachna&theme=cobalt" />
+
+[![Camilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilla-bachna)](https://github.com/camilla-bachna/github-readme-stats)
