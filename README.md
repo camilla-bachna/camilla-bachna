@@ -41,9 +41,8 @@ son claves.
 
 ## Projects
 
-[![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=nightowl)](https://github.com/camilla-bachna/rick-and-morty),
-
- <img src="images/rick_and_morty.png" alt="Rick and Morty" width="200px" />
+[![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=nightowl)](https://github.com/camilla-bachna/rick-and-morty) `,`
+<img src="images/rick_and_morty.png" alt="Rick and Morty" width="200px" />
 
 [![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=nightowl)](https://github.com/camilla-bachna/tv-series-browser)
 
