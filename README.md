@@ -43,7 +43,7 @@ son claves.
 
 [![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=nightowl)](https://github.com/camilla-bachna/rick-and-morty)
 
-[![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browse&theme=nightowl)](https://github.com/camilla-bachna/tv-series-browser)
+[![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=nightowl)](https://github.com/camilla-bachna/tv-series-browser)
 
 [![Team project - React profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-react-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-react-profile-cards)
 
@@ -52,8 +52,6 @@ son claves.
 [![Landing page anonymous proxy](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=landing-page-anonymous-proxy&theme=nightowl)](https://github.com/camilla-bachna/landing-page-anonymous-proxy)
 
 [![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)
-
-![Creatures of JS](./images/awesome_profile_cards.png)
 
 ## Contact info 🖋
 
