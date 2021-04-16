@@ -41,24 +41,17 @@ son claves.
 
 ## Projects
 
-[![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=nightowl)](https://github.com/camilla-bachna/rick-and-morty) `,`
-<img src="images/rick_and_morty.png" alt="Rick and Morty" width="400px" />
+[![Rick & Morty](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=rick-and-morty&theme=nightowl)](https://github.com/camilla-bachna/rick-and-morty)
 
-[![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=nightowl)](https://github.com/camilla-bachna/tv-series-browser)`,`
-<img src="images/browser_search.png" alt="Browser Search" width="400px" />
+[![TV series browser](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=tv-series-browser&theme=nightowl)](https://github.com/camilla-bachna/tv-series-browser)
 
 [![Team project - React profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-react-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-react-profile-cards)
-`,`
-<img src="images/profile_cards.png" alt="Profile cards" width="400px" />
 
-[![Team project - The Fearle.scss](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-the-fearle.scss&theme=nightowl)](https://github.com/camilla-bachna/team-project-the-fearle.scss)`,`
-<img src="images/fearle.scss.png" alt="The Fearle.scss" width="400px" />
+[![Team project - The Fearle.scss](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-the-fearle.scss&theme=nightowl)](https://github.com/camilla-bachna/team-project-the-fearle.scss)
 
-[![Landing page anonymous proxy](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=landing-page-anonymous-proxy&theme=nightowl)](https://github.com/camilla-bachna/landing-page-anonymous-proxy)`,`
-<img src="images/anonymous_proxy.png" alt="Anonymous Proxy" width="400px" />
+[![Landing page anonymous proxy](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=landing-page-anonymous-proxy&theme=nightowl)](https://github.com/camilla-bachna/landing-page-anonymous-proxy)
 
-[![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)`,`
-<img src="images/awesome_profile_cards.png" alt="Awesome profile cards" width="400px" />
+[![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)
 
 ## Contact info 🖋
 
