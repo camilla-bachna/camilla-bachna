@@ -53,6 +53,8 @@ son claves.
 
 [![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)
 
+![Creatures of JS](./src/images/awesome_profile_cards.png)
+
 ## Contact info 🖋
 
 Please don't hesitate to **contact me**. Click on the following links:
