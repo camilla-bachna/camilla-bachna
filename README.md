@@ -49,6 +49,8 @@ son claves.
 
 [![Team project - The Fearle.scss](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-the-fearle.scss&theme=nightowl)](https://github.com/camilla-bachna/team-project-the-fearle.scss)
 
+[![Landing page anonymous proxy](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=landing-page-anonymous-proxy&theme=nightowl)](https://github.com/camilla-bachna/landing-page-anonymous-proxy)
+
 [![Team project - Awesome profile cards](https://github-readme-stats.vercel.app/api/pin/?username=camilla-bachna&repo=team-project-awesome-profile-cards&theme=nightowl)](https://github.com/camilla-bachna/team-project-awesome-profile-cards)
 
 ## Contact info 🖋
